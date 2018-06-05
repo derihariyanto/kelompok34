@@ -7,6 +7,7 @@ const Header = () => (
 	
   <header>
 	    <div class="topnav" id="myTopnav">
+	    	
 	    	<a href="/" class="active">Home</a>
 			<a href="/Info">Info</a>
 			<a href="/Profile">Profile</a>
@@ -15,12 +16,12 @@ const Header = () => (
 		    		<i class="fa fa-caret-down"></i>
 		  		</button>
 		  		<div class="dropdown-content">
-		    		<a href="/">Schedule 1</a>
-		    		<a href="/">Schedule 2</a>
-		    		<a href="/">Schedule 3</a>
+		    		<a href="/Schedule/1">Schedule 1</a>
+		    		<a href="/Schedule/2">Schedule 2</a>
+		    		<a href="/Schedule/3">Schedule 3</a>
 		  		</div>
 		  	</div> 
-			<a href="/about">About</a>
+			<a href="/About">About</a>
 			<a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
 		</div>
   </header>
