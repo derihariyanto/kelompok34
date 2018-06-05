@@ -1,0 +1,79 @@
+/*===========FOOTER===================*/
+
+.mainGambar{
+    max-width: 100px;
+}
+.footer{
+    background: #CBEFDD;
+    padding-top: 25px;
+
+}
+.futer {
+    overflow: hidden;
+}
+.futer .widget{}
+.futer .widget img{
+    width:60%;
+    padding: 5px;
+}
+.futer .widget .widgetTxt{
+    padding-left:2px;
+}
+.futer .widget .widgetTxt p{
+    font-size:14px;
+    margin-top:15px;
+    color:#cccccc;
+}
+.futer .widget .widgetTxt .socmed a i{
+    background: #fefefe;
+    width:30px;
+    height: 30px;
+    line-height: 30px;
+    color:#444444;
+    text-align: center;
+    transition: all 0.3s;
+}
+.futer .widget .widgetTxt .socmed a:hover i{
+    background: #ec4848;
+    color:#494949;
+}
+.futer .widget .widgetTxt.f_reatures li{
+    font-size:15px;
+    margin-bottom: 5px;
+    color: #494949;
+}
+.futer .widget .widgetTxt.f_reatures i{
+    color:#494949;
+    padding-right: 5px;
+}
+
+.futer .widget .widgetTxt.f_tags a{
+    color: #fff;
+    background: #ec4848;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+    font-size: 12px;
+}
+.futer .widget .widgetTxt.flickyoo img{
+    width: 23%;
+    margin-bottom: 5px;
+}
+
+.main_coppyright{
+    border-top:5px solid #686868;
+}
+.main_coppyright p{
+    text-align: center;
+    color:#e5e5e5;
+}
+.main_coppyright .bawah{
+    background: #ec4848;
+
+}
+ul{
+    list-style-type: none;
+}
+.cont{
+    padding-bottom: 10px;
+}
