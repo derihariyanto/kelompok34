@@ -120,28 +120,27 @@ Resource style
   -webkit-box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
           box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
 }
-
-.timeline__img img {
+/*----iki lho---*/
+.timeline__img i {
   display: block;
-  width: 24px;
-  height: 24px;
+  font-size: 34px;
   position: relative;
-  left: 50%;
-  top: 50%;
+  left: 38.8%;
+  top: 40%;
   margin-left: -12px;
   margin-top: -12px;
+    color:white;
 }
 
 .timeline__img.timeline__img--picture {
   background: #75ce66;
 }
 
-.timeline__img.timeline__img--movie {
-  background: #c03b44;
-}
-
-.timeline__img.timeline__img--location {
+.timeline__img.timeline__img--rumah {
   background: #f0ca45;
+}
+.timeline__img.timeline__img--end {
+  background: #f71b3f;
 }
 
 @media only screen and (min-width: 1170px) {
@@ -198,6 +197,14 @@ Resource style
 .timeline__content {
   position: relative;
   margin-left: 60px;
+  background: white;
+  border-radius: 0.25em;
+  padding: 1em;
+  -webkit-box-shadow: 0 3px 0 #d7e4ed;
+          box-shadow: 0 3px 0 #d7e4ed;
+}
+.timeline__content img{
+  position: relative;
   background: white;
   border-radius: 0.25em;
   padding: 1em;
