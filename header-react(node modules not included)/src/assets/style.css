@@ -1,3 +1,7 @@
 body{
-	margin:0 !important;
+	min-height: 900px;
+	height: auto;
+}
+p{
+	margin-bottom: 2px !important;
 }

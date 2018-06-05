@@ -1,13 +1,13 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import Home from './Home';
+import Sejarah from './Sejarah.js';
 
 
 const Jadwal = () => <h2>Jadwal</h2>;
 const Artikel = () => <h2>Artikel</h2>;
 const Informasi = () => <h2>Informasi</h2>;
 const Galery = () => <h2>Galery</h2>;
-const Sejarah = () => <h2>Sejarah</h2>;
 const Contact_Us = () => <h2>Contact_Us</h2>;
 // The Main component renders one of the three provided
 // Routes (provided that one matches). Both the /roster
