@@ -1,26 +1,30 @@
 /*===========FOOTER===================*/
 
+.mainGambar{
+    max-width: 100px;
+}
 .footer{
-    background: #5bd999;
+    background: #CBEFDD;
+    padding-top: 25px;
 
 }
-.main_footer_area {
+.futer {
     overflow: hidden;
 }
-.main_footer_area .single_f_widget{}
-.main_footer_area .single_f_widget img{
+.futer .widget{}
+.futer .widget img{
     width:60%;
     padding: 5px;
 }
-.main_footer_area .single_f_widget .single_f_widget_text{
+.futer .widget .widgetTxt{
     padding-left:2px;
 }
-.main_footer_area .single_f_widget .single_f_widget_text p{
+.futer .widget .widgetTxt p{
     font-size:14px;
     margin-top:15px;
     color:#cccccc;
 }
-.main_footer_area .single_f_widget .single_f_widget_text .social_f_widget a i{
+.futer .widget .widgetTxt .socmed a i{
     background: #fefefe;
     width:30px;
     height: 30px;
@@ -29,21 +33,21 @@
     text-align: center;
     transition: all 0.3s;
 }
-.main_footer_area .single_f_widget .single_f_widget_text .social_f_widget a:hover i{
+.futer .widget .widgetTxt .socmed a:hover i{
     background: #ec4848;
-    color:#fff;
+    color:#494949;
 }
-.main_footer_area .single_f_widget .single_f_widget_text.f_reatures li{
+.futer .widget .widgetTxt.f_reatures li{
     font-size:15px;
     margin-bottom: 5px;
-    color: #f9f9f9;
+    color: #494949;
 }
-.main_footer_area .single_f_widget .single_f_widget_text.f_reatures i{
-    color:#ec4848;
+.futer .widget .widgetTxt.f_reatures i{
+    color:#494949;
     padding-right: 5px;
 }
 
-.main_footer_area .single_f_widget .single_f_widget_text.f_tags a{
+.futer .widget .widgetTxt.f_tags a{
     color: #fff;
     background: #ec4848;
     padding: 5px 10px;
@@ -51,20 +55,25 @@
     display: inline-block;
     font-size: 12px;
 }
-.main_footer_area .single_f_widget .single_f_widget_text.f_flicker img{
+.futer .widget .widgetTxt.flickyoo img{
     width: 23%;
     margin-bottom: 5px;
 }
 
 .main_coppyright{
-    border-top:5px solid #534a4a;
+    border-top:5px solid #686868;
 }
 .main_coppyright p{
     text-align: center;
-    color:#c5c5c5;
+    color:#e5e5e5;
 }
 .main_coppyright .bawah{
     background: #ec4848;
 
 }
-
+ul{
+    list-style-type: none;
+}
+.cont{
+    padding-bottom: 10px;
+}
