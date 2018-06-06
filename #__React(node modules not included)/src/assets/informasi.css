@@ -1,0 +1,52 @@
+
+/*Content*/
+
+
+
+/*fooarticle*/
+
+/*footer*/
+.footest{
+	height: 130px;
+	background-color: #cbefdd;
+	text-align: center;
+	position: relative;
+	font-size: 16px;
+}
+
+.footest h4{
+	color: #281872;
+}
+
+.imgFoo{
+	position: absolute;
+  	top: 55%;
+  	left:50%;
+  	transform: translate(-50%,-50%);
+	max-height: 90px;
+	margin: 0 auto;
+}
+.socmedFooCont{
+	border-top: 2px solid #281872;
+	width: 300px;
+	margin: 0 auto;
+	height: 50px;
+}
+.socmed{
+	padding-top: 10px;
+	width: 70px;
+	display: inline-block;
+}
+.socmed img{
+	max-height: 25px;
+}
+.copyright{
+	padding-top: 7px;
+	height: 50px;
+	background-color: #5BD999;
+	text-align: center;
+	font-size: 12px;
+}
+.content{
+	font-size: 
+}
