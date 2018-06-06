@@ -1,0 +1,39 @@
+
+
+/*JadwalDokter*/
+.contJadPre{
+	text-align: center;
+	margin-bottom: 100px;
+}
+.jadwalPre{
+	background-color: #fff;
+	/*height: 300px;*/
+	overflow: scroll;
+	text-align: center;
+}
+.contJadPre h3{
+	margin: 0 0 50px 0;
+}
+.contJadPre i{
+	padding: 100px 0 10px 0;
+		color: #494949;
+		font-size: 40px;
+}
+.tbHeaderColor{
+	background-color: #5BD999;
+}
+
+.vercenter th{
+	valign : center;
+}
+
+p{
+	padding-bottom: 5px;
+}
+th{
+	text-align: center;
+}
+
+.fix {
+	column-rule-width: 30px;
+}
