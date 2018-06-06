@@ -86,12 +86,12 @@ const Home = () => ([
           <div class="col-md-6">
              <div class="card">
              	<div class="col-md-12 cont-news-card">
-		                <img class="image-card" src="http://grafreez.com/wp-content/temp_demos/river/img/politics.jpg" alt="" />
+		                <img class="image-card" src="assets/logors.png" alt="" />
                 </div>
                 <div class="card-body">
                    <div class="news-title">
                       <h2 class=" title-small">
-                      	<a href="#" class="cardtext">Syria war: Why the battle for Aleppo matters</a>
+                      	<a href="#" class="cardtext">Manfaat Vitamin A Bagi Tubuh</a>
                       </h2>
                    </div>
                    <p class="card-text"><small class="text-time"><em>3 mins ago</em></small></p>
@@ -105,7 +105,7 @@ const Home = () => ([
                 <div class="card-body">
                    <div class="news-title">
                       <h2 class=" title-small"><a class="cardtext" href="#">
-                      	Syria war: Why the battle for Aleppo matters</a>
+                      	Apakah Penyebab penyakit si kecil</a>
                       </h2>
                    </div>
                    <p class="card-text"><small class="text-time"><em>3 mins ago</em></small></p>
@@ -121,7 +121,7 @@ const Home = () => ([
 	            <div class="card-body">
 	               <div class="news-title">
 	                  <h2 class=" title-small">
-	                  	<a class="cardtext" href="#">Syria war: Why the battle for Aleppo matters</a>
+	                  	<a class="cardtext" href="#">Mitos kesehatan dan puasa</a>
 	                  </h2>
 	               </div>
 	               <p class="card-text"><small class="text-time"><em>3 mins ago</em></small></p>
@@ -134,7 +134,7 @@ const Home = () => ([
                 <div class="card-body">
                    <div class="news-title">
                       <h2 class=" title-small">
-                      	<a class="cardtext" href="#">Syria war: Why the battle for Aleppo matters</a>
+                      	<a class="cardtext" href="#">Manfaat kulit manggis</a>
                       </h2>
                    </div>
                    <p class="card-text"><small class="text-time"><em>3 mins ago</em></small></p>

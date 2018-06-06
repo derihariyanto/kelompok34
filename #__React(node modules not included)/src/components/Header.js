@@ -31,8 +31,11 @@ class Header extends React.Component{
 					</div>
 					<div className="col-md-9 logo-text">
 						
-						<h2><b>RSKIA PKU KOTAGEDE</b></h2>
-						<p><b>Jl. Kemasan No.43, Kotagede,Daerah Istimewa Yogyakarta<br/>Email : pkukotagede@yahoo.co.id<br/>Telp : (0274)371201</b></p>
+						<h2><b>Rs. SEGER WARAS</b></h2>
+						<p>Jl. Anu no.69 Ngayojokarto<br/>
+			         Telp : 0895-3675-11128<br/>
+			         fax : 34536
+			      </p>
 						
 					</div>
 				</div>
@@ -48,7 +51,7 @@ class Header extends React.Component{
 			<div className="topnav" id="myTopnav">
 			  <a href="/" className="aktif">Home</a>
 			  <a href="/Jadwal">Jadwal Dokter</a>
-			  <a href="/Artikel">Artikel</a>
+			  <a href="/Artikel1">Artikel</a>
 			  <a href="/informasi">Informasi</a>
 			  <a href="/Galery">Galery</a>
 			  <a href="/Sejarah">Sejarah</a>

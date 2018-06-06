@@ -3,7 +3,7 @@
 const Informasi1 = () => (
 	<div className="content">
 		<div className="d-flex justify-content-center">
-			<div className="col-md-8 title">
+			<div className="col-md-8 title article">
 				<div className="bookLogo">
 					<i className="fas fa-bullhorn inline rightCons"></i>
 					<h2 className="inline">PENGUMUMAN</h2>
